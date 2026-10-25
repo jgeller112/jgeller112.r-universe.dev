@@ -2,5 +2,13 @@
     {
         "package": "webgazeR",
         "url": "https://github.com/jgeller112/webgazeR"
+    },
+    {
+        "package": "gazer",
+        "url": "https://github.com/dmirman/gazer"
+    },
+    {
+        "package": "shinygazer",
+        "url": "https://github.com/jgeller112/shiny-gazeR"
     }
 ]
